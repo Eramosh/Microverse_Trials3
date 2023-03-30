@@ -1,0 +1,39 @@
+@media screen and (min-width: 480px) {
+    #leftsidebar {width: 200px; float: left;}
+    #main {margin-left: 216px;} 
+    body{
+      background-color: lightyellow;
+    }
+  }
+  #h1 {
+   position: fixed;
+   top: 0;
+   font-family: sans-serif; 
+   width: 30%;
+   height: 10%; 
+  background-color: lightyellow;
+  }
+  #header-img{
+   position: fixed;
+   top: 0;
+   left: 290;
+   width: 30%;
+   height: 10%; background-color: lightyellow;
+  }
+  #nav-bar{
+   position: fixed;
+   top: 0;
+   right: 0;
+   width: 30%;
+   font-family: sans-serif;
+   font-size: 20px;
+   height: 10%; background-color: lightyellow;
+   display: flex;
+  }
+  form {
+    margin-top: 10%;
+    text-align:center;
+  }
+  #video {
+    text-align:center;
+  }
